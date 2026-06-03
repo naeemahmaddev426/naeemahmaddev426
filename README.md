@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi 👋, I'm Naeem Ahmad
 
-<!--
-**naeemahmaddev426/naeemahmaddev426** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend Web Developer | Laravel Developer | PHP & MySQL
 
-Here are some ideas to get you started:
+I am a Backend Web Developer from Pakistan with experience in building web applications, REST APIs, and database-driven systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+- Laravel
+- PHP
+- MySQL
+- REST APIs
+- JavaScript
+- Bootstrap
+- Git & GitHub
+- FastAPI (Learning)
+
+## 📂 Featured Projects
+
+### AdsMarket
+Classified Ads Platform built with Laravel, PHP, MySQL and Bootstrap.
+
+🔗 Repository:
+https://github.com/naeemahmaddev426/Adsmarket
+
+## 💼 What I Do
+
+- Backend Development
+- Database Design
+- REST API Development
+- Laravel Web Applications
+- Bug Fixing & Maintenance
+
+## 📫 Connect With Me
+
+LinkedIn:
+https://www.linkedin.com/in/naeem-ahmad-2ba783413/
+
+GitHub:
+https://github.com/naeemahmaddev426
+
+---
+
+⭐ Always learning and improving my development skills.
