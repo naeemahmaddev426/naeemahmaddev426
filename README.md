@@ -30,7 +30,24 @@ https://github.com/naeemahmaddev426/Adsmarket
 - REST API Development
 - Laravel Web Applications
 - Bug Fixing & Maintenance
+### Jobs Portal
 
+  ### Features:
+- Authentication
+- Employer Dashboard
+- Company Management
+- Job Posting
+- Job Search
+- Job Applications
+
+### Tech Stack:
+Laravel 12
+PHP 8
+MySQL
+Bootstrap 5
+
+Screenshots
+Installation
 ## 📫 Connect With Me
 
 LinkedIn:
