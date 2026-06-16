@@ -1,9 +1,10 @@
 # Hi 👋, I'm Naeem Ahmad
 
-### Backend Web Developer | Laravel Developer | PHP & MySQL
+Laravel Developer | PHP & MySQL | REST APIs
 
-I am a Backend Web Developer from Pakistan with experience in building web applications, REST APIs, and database-driven systems.
+I am a Laravel Developer with experience building web applications, REST APIs and database-driven systems using PHP and MySQL.
 
+Currently improving my backend development skills and learning Python/FastAPI while focusing on the Laravel ecosystem.
 ## 🚀 Skills
 
 - Laravel
