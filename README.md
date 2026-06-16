@@ -32,13 +32,15 @@ https://github.com/naeemahmaddev426/Adsmarket
 - Bug Fixing & Maintenance
 ### Jobs Portal
 
-  ### Features:
-- Authentication
-- Employer Dashboard
-- Company Management
-- Job Posting
-- Job Search
-- Job Applications
+ Features:
+• User Authentication
+• Property Listings
+• Search & Filters
+• Admin Dashboard
+• Image Uploads
+
+Tech Stack:
+Laravel, PHP, MySQL, Bootstrap 5
 
 ### Tech Stack:
 Laravel 12
