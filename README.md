@@ -35,10 +35,11 @@ https://github.com/naeemahmaddev426/Adsmarket
 
  Features:
 • User Authentication
-• Property Listings
-• Search & Filters
-• Admin Dashboard
-• Image Uploads
+• Employer Dashboard
+• Company Management
+• Job Posting
+• Job Search
+• Job Applications
 
 Tech Stack:
 Laravel, PHP, MySQL, Bootstrap 5
