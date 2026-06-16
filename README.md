@@ -15,6 +15,7 @@ Currently improving my backend development skills and learning Python/FastAPI wh
 - Bootstrap
 - Git & GitHub
 - FastAPI (Learning)
+- Python (Learning)
 
 ## 📂 Featured Projects
 
@@ -50,8 +51,6 @@ PHP 8
 MySQL
 Bootstrap 5
 
-Screenshots
-Installation
 ## 📫 Connect With Me
 
 LinkedIn:
