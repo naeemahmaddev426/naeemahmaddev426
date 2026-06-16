@@ -2,7 +2,7 @@
 
 Laravel Developer | PHP & MySQL | REST APIs
 
-I am a Laravel Developer with experience building web applications, REST APIs and database-driven systems using PHP and MySQL.
+I am a Laravel Developer with experience in building web applications, REST APIs, and database-driven systems using Laravel, PHP, and MySQL.
 
 Currently improving my backend development skills and learning Python/FastAPI while focusing on the Laravel ecosystem.
 ## 🚀 Skills
@@ -20,10 +20,45 @@ Currently improving my backend development skills and learning Python/FastAPI wh
 ## 📂 Featured Projects
 
 ### AdsMarket
+
 Classified Ads Platform built with Laravel, PHP, MySQL and Bootstrap.
 
 🔗 Repository:
 https://github.com/naeemahmaddev426/Adsmarket
+
+Features:
+- User Authentication
+- Property Listings
+- Search & Filters
+- Admin Dashboard
+- Image Uploads
+
+Tech Stack:
+- Laravel
+- PHP
+- MySQL
+- Bootstrap 5
+
+### Jobs Portal
+
+Job Portal Application built with Laravel, PHP, MySQL and Bootstrap.
+
+🔗 Repository:
+https://github.com/naeemahmaddev426/jobs_portal
+
+Features:
+- User Authentication
+- Employer Dashboard
+- Company Management
+- Job Posting
+- Job Search
+- Job Applications
+
+Tech Stack:
+- Laravel
+- PHP
+- MySQL
+- Bootstrap 5
 
 ## 💼 What I Do
 
@@ -32,32 +67,11 @@ https://github.com/naeemahmaddev426/Adsmarket
 - REST API Development
 - Laravel Web Applications
 - Bug Fixing & Maintenance
-### Jobs Portal
-
- Features:
-• User Authentication
-• Employer Dashboard
-• Company Management
-• Job Posting
-• Job Search
-• Job Applications
-
-Tech Stack:
-Laravel, PHP, MySQL, Bootstrap 5
-
-### Tech Stack:
-Laravel 12
-PHP 8
-MySQL
-Bootstrap 5
 
 ## 📫 Connect With Me
 
-LinkedIn:
-https://www.linkedin.com/in/naeem-ahmad-2ba783413/
-
-GitHub:
-https://github.com/naeemahmaddev426
+- [LinkedIn](https://www.linkedin.com/in/naeem-ahmad-2ba783413/)
+- [GitHub](https://github.com/naeemahmaddev426)
 
 ---
 
